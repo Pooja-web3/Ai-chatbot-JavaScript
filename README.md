@@ -21,3 +21,9 @@ A simple and responsive Chatbot web application built using **HTML**, **CSS**, a
 - **JavaScript (Vanilla)** – Chat logic and dynamic interaction
 
 ---
+## 📷 Live Preview
+
+🌐 **Deployed on Vercel:**  
+https://ai-chatbot-java-script.vercel.app/
+
+----
